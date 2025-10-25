@@ -17,7 +17,8 @@ It combines historical trading data with the Fear & Greed Index to explore patte
 ---
 
 ##  Notebook
-Main analysis notebook: [Trader_Behavior_vs_Market_Sentiment.ipynb](https://github.com/PathanZeba/Trader-Behavior-vs-Market-Sentiment/blob/main/Trader_Behavior_vs_Market_Sentiment.ipynb)
+Main analysis notebook: [notebook_1.ipynb](https://github.com/PathanZeba/Trader-Behavior-vs-Market-Sentiment/blob/main/notebook_1.ipynb)
+
 
 ---
 
