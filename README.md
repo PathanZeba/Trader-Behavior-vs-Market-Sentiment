@@ -5,7 +5,10 @@
 This project analyzes how trader behavior correlates with market sentiment indicators.  
 It combines historical trading data with the Fear & Greed Index to explore patterns and build predictive insights.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PathanZeba/Trader-Behavior-vs-Market-Sentiment/blob/main/Trader_Behavior_vs_Market_Sentiment.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PathanZeba/Trader-Behavior-vs-Market-Sentiment/blob/main/notebook_1.ipynb)
+
+
+
 
 ---
 
