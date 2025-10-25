@@ -1,5 +1,3 @@
-# Trader-Behavior-vs-Market-Sentiment
-
 # Trader Behavior vs Market Sentiment
 
 This project analyzes how trader behavior correlates with market sentiment indicators.  
